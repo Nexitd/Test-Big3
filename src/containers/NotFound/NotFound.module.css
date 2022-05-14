@@ -1,0 +1,32 @@
+.container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.containerItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.containerItem img {
+  margin-bottom: 48px;
+}
+
+.containerTitle {
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 49px;
+  color: #ff768e;
+  margin-bottom: 24px;
+}
+
+.containerText {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 33px;
+  color: #707070;
+}

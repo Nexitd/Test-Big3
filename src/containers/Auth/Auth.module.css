@@ -1,0 +1,48 @@
+.auth {
+  height: 100vh;
+}
+
+.authContainer {
+  height: 100%;
+  display: flex;
+}
+
+.authItem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.authContent {
+  width: 40%;
+}
+
+.authImage {
+  width: 60%;
+  background: #f5fbff;
+}
+
+.contentContainer {
+  width: 370px;
+}
+
+.title {
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 49px;
+  margin-bottom: 32px;
+  color: #344472;
+}
+
+.text {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  color: #707070;
+  text-align: center;
+}
+
+.text span {
+  color: #e4163a;
+  cursor: pointer;
+}
